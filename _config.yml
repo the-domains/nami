@@ -1,0 +1,14 @@
+layout_spectrum: 0.04850231623277068
+typography_spectrum: 0.5082006645388901
+color:
+  brandStrength: 0.7506188857369125
+  lightness: 0.6444526449777186
+  saturation: 0.4542394611053169
+  rhythmicContrast: 0.10451160557568073
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Nami
